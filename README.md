@@ -1,3 +1,9 @@
+
+# INFO
+>
+> <<FORK made for Raspberry Pi Pico and my personal 40% keyboard>>
+>
+
 # KMK: Clackety Keyboards Powered by Python
 
 KMK is a feature-rich and beginner-friendly firmware for computer keyboards

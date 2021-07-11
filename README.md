@@ -3,8 +3,8 @@
 >
 > <<FORK made for Raspberry Pi Pico and my personal 40% keyboard>>
 >
-Guide for Raspberry Pi Pico: Copy the kmk folder and the boot.py file to the root of the CIRCUITPY drive of RPi Pico.
-Then use a code.py to define the pinout and the keys of the keyboard.
+Guide for Raspberry Pi Pico: Copy the KMK folder, the main.py, the keymap_italian.py and the boot.py file to the CIRCUITPY drive root of RPi Pico.
+Refer to the blog article for details: http://creativityslashdesign.com/2021/07/orthopico-void40-powered-by-raspberry.html
 
 # KMK: Clackety Keyboards Powered by Python
 
